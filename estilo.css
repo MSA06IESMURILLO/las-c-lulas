@@ -1,6 +1,7 @@
 body {
 	background:url(imagenes/fondo.webp);
 	background-repeat:no-repeat;
+	background-attachment:scroll;
 }
 * {
 	margin:20px;
