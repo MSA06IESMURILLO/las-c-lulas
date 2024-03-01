@@ -39,3 +39,6 @@ p {
 b,strong {
 	font-size:22px;
 }
+a {
+	text-shadow:5px 5px 5px #000
+}
