@@ -1,5 +1,6 @@
 body {
 	background:url(imagenes/fondo.webp);
+	background-repeat:no-repeat;
 }
 * {
 	margin:20px;
