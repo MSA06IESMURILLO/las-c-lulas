@@ -1,8 +1,9 @@
 body {
-	background:url(imagenes/fondo.webp);
+	background-image:url(imagenes/fondo.webp);
 	background-repeat:no-repeat;
 	background-attachment:fixed;
-	background-position:0px 0px;
+	background-position:center center;
+	backgrund-size:cover;
 	
 }
 * {
