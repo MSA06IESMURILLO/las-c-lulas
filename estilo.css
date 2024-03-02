@@ -1,0 +1,49 @@
+body {
+	background-image:url(imagenes/fondo.webp);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center center;
+	background-size:cover;
+	
+}
+* {
+	margin:20px;
+}
+h1 {
+	color:#212F3D;
+	font-size:100px;
+	text-aling:center;
+}
+h2 {
+	color:#34495E;
+	font-size:70px;
+}
+h3 {
+	font-size:60px;
+}
+h4 {
+	color:#1A5276;
+	font-size:50px;
+}
+h5 {
+	color:#1A5276;
+	font-size:40px;
+}
+h6 {
+	color:#3498DB;
+	font-size:30px;
+}
+p {
+	font-size:20px;
+}
+b,strong {
+	font-size:22px;
+}
+a {
+	text-shadow:5px 5px 5px #000
+}
+div {
+     background: #79ba7b;
+     padding: 20px;
+     border: 5px dotted #c82828;
+}
